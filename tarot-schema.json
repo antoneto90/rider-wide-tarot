@@ -1,0 +1,479 @@
+{
+  "MajorArcana": {
+    "TheFool": {
+      "UprightMeaning": "Beginnings, innocence, spontaneity, a free spirit.",
+      "ReversedMeaning": "Naivety, foolishness, recklessness, risk-taking.",
+      "Symbolism": "The Fool stepping off a cliff, small dog, etc.",
+      "HistoricalBackground": "Traditionally, The Fool is considered the card of infinite possibilities. It represents the start of a journey and embracing the unknown."
+    },
+    "TheMagician": {
+      "UprightMeaning": "Manifestation, resourcefulness, power, inspired action.",
+      "ReversedMeaning": "Manipulation, poor planning, untapped talents.",
+      "Symbolism": "Tools on the table (cup, pentacle, sword, wand), infinity symbol.",
+      "HistoricalBackground": "The Magician symbolizes the bridge between the world of the spirit and the world of humanity. His ability to harness his power is often associated with the creative and entrepreneurial spirit."
+    },
+    "TheHighPriestess": {
+      "UprightMeaning": "Intuition, sacred knowledge, divine feminine, the subconscious mind.",
+      "ReversedMeaning": "Secrets, disconnected from intuition, withdrawal, silence.",
+      "Symbolism": "High Priestess between two pillars, black and white, moon crown.",
+      "HistoricalBackground": "The High Priestess is often associated with mystery, intuition, and a deep understanding of the feminine aspect of the divine. She represents a gateway to hidden knowledge."
+    },
+    "TheEmpress": {
+      "UprightMeaning": "Fertility, femininity, beauty, nature, abundance.",
+      "ReversedMeaning": "Creative block, dependence on others, neglect of nature.",
+      "Symbolism": "The Empress is depicted as a motherly figure, a symbol of fertility and nurturing, surrounded by abundant nature.",
+      "HistoricalBackground": "Traditionally representing maternal influence, The Empress is the embodiment of Mother Earth, femininity, and fertility."
+    },
+    "TheEmperor": {
+      "UprightMeaning": "Authority, structure, control, fatherhood, power.",
+      "ReversedMeaning": "Tyranny, rigidity, coldness, overbearing control.",
+      "Symbolism": "The Emperor is portrayed as a stern figure, symbolizing structure, stability, and rules. He is often seated on a throne, embodying power and authority.",
+      "HistoricalBackground": "The Emperor symbolizes patriarchal control and order, often associated with societal rules, structures, and power dynamics."
+    },
+    "TheHierophant": {
+      "UprightMeaning": "Spiritual wisdom, religious beliefs, conformity, tradition, institutions.",
+      "ReversedMeaning": "Rebellion, subversiveness, new approaches, unconventional beliefs.",
+      "Symbolism": "The Hierophant is often depicted as a religious figure, symbolizing tradition, conformity, and moral guidance.",
+      "HistoricalBackground": "Historically, The Hierophant is seen as a bridge between heaven and earth, often representing traditional institutions, spirituality, and moral law."
+    },
+    "TheLovers": {
+      "UprightMeaning": "Love, harmony, relationships, value alignment, choices.",
+      "ReversedMeaning": "Imbalance, misalignment of values, broken relationships, disharmony.",
+      "Symbolism": "The Lovers card typically shows a couple, symbolizing union, relationships, and choices. It often represents the harmony of opposites.",
+      "HistoricalBackground": "The Lovers card has historically symbolized not just love and relationships but also important choices and the alignment of personal values."
+    },
+    "TheChariot": {
+      "UprightMeaning": "Control, willpower, success, action, determination.",
+      "ReversedMeaning": "Lack of control, directionless, aggression, obstacles.",
+      "Symbolism": "The Chariot shows a warrior riding a chariot, representing triumph, control, and conquest over adversity.",
+      "HistoricalBackground": "The Chariot is often seen as a symbol of conquest and victory, representing the drive and determination to succeed."
+    },
+    "TheStrength": {
+      "UprightMeaning": "Strength, courage, persuasion, influence, compassion.",
+      "ReversedMeaning": "Weakness, self-doubt, lack of confidence, misuse of power.",
+      "Symbolism": "A woman gently taming a lion, symbolizing strength through compassion and inner resolve rather than brute force.",
+      "HistoricalBackground": "The Strength card, traditionally numbered 8, represents not just physical strength but moral and emotional fortitude as well."
+    },
+    "TheHermit": {
+      "UprightMeaning": "Soul-searching, introspection, being alone, inner guidance.",
+      "ReversedMeaning": "Isolation, loneliness, withdrawal, being reclusive.",
+      "Symbolism": "An old, wise hermit holding a lantern, symbolizing the search for truth and inner knowledge.",
+      "HistoricalBackground": "The Hermit represents the quest for wisdom and the importance of introspection and personal spiritual quests."
+    },
+    "TheWheelOfFortune": {
+      "UprightMeaning": "Good luck, karma, life cycles, destiny, a turning point.",
+      "ReversedMeaning": "Bad luck, resistance to change, breaking cycles, unexpected events.",
+      "Symbolism": "The wheel surrounded by different creatures, symbolizing the cyclical nature of life and the role of fate.",
+      "HistoricalBackground": "The Wheel of Fortune signifies the constant changes and cycles in life, often interpreted as the hand of destiny in action."
+    },
+    "TheJustice": {
+      "UprightMeaning": "Justice, fairness, truth, cause and effect, law.",
+      "ReversedMeaning": "Unfairness, lack of accountability, dishonesty, legal problems.",
+      "Symbolism": "A figure seated between pillars, scales in one hand and a sword in the other, symbolizing balanced justice and fairness.",
+      "HistoricalBackground": "Justice represents the idea of karma and the law of cause and effect, asserting that all actions have consequences."
+    },
+    "TheHangedMan": {
+      "UprightMeaning": "Suspension, restriction, letting go, sacrifice, perspective.",
+      "ReversedMeaning": "Martyrdom, indecision, delay, needless sacrifice.",
+      "Symbolism": "A man hanging upside-down by one foot, suggesting voluntary sacrifice and gaining perspective through suspension.",
+      "HistoricalBackground": "The Hanged Man is often seen as a symbol of self-sacrifice, surrender, and the need to view things from a different angle."
+    },
+    "Death": {
+      "UprightMeaning": "Endings, change, transformation, transition.",
+      "ReversedMeaning": "Resistance to change, personal transformation, inner purging.",
+      "Symbolism": "The Death card typically depicts a skeleton, symbolizing the end of something and the start of something new.",
+      "HistoricalBackground": "Historically, the Death card is not just about physical death but major change or transformation in one's life."
+    },
+    "Temperance": {
+      "UprightMeaning": "Balance, moderation, patience, purpose, meaning.",
+      "ReversedMeaning": "Imbalance, excess, lack of long-term vision.",
+      "Symbolism": "An angelic figure mixing water, symbolizing the blending and balancing of different elements.",
+      "HistoricalBackground": "The Temperance card represents the need for balance and moderation, encouraging a harmonious and balanced approach to life."
+    },
+    "TheDevil": {
+      "UprightMeaning": "Addiction, materialism, playfulness, bondage.",
+      "ReversedMeaning": "Freedom, releasing limiting beliefs, exploring dark thoughts, detachment.",
+      "Symbolism": "The Devil portrays a satyr-like creature, symbolizing our base desires and materialistic mindset.",
+      "HistoricalBackground": "This card is often interpreted as a symbol of our primal urges and the need to break free from materialistic bonds."
+    },
+    "TheTower": {
+      "UprightMeaning": "Sudden change, upheaval, chaos, revelation, awakening.",
+      "ReversedMeaning": "Personal transformation, fear of change, averting disaster.",
+      "Symbolism": "A tower struck by lightning, with figures falling out, symbolizes upheaval and sudden change.",
+      "HistoricalBackground": "The Tower card signifies major upheaval, destruction, and a sudden shift in one's life, often leading to transformation."
+    },
+    "TheStar": {
+      "UprightMeaning": "Hope, faith, rejuvenation, inspiration, serenity.",
+      "ReversedMeaning": "Despair, lack of faith, disillusionment, hopelessness.",
+      "Symbolism": "A tranquil figure pouring water, with stars in the background, symbolizing hope, inspiration, and spiritual enlightenment.",
+      "HistoricalBackground": "The Star card is seen as a symbol of hope and inspiration, often appearing after a time of difficulty."
+    },
+    "TheMoon": {
+      "UprightMeaning": "Illusion, fear, anxiety, subconscious, intuition.",
+      "ReversedMeaning": "Release of fear, repressed emotion, inner confusion, uncovering the truth.",
+      "Symbolism": "A moon casting a dim light, with howling wolves or dogs and a crayfish, representing the deep, primal fears and the subconscious.",
+      "HistoricalBackground": "The Moon often represents the shadow side of oneself, dealing with fears and anxieties, and the mysteries of the subconscious mind."
+    },
+    "TheSun": {
+      "UprightMeaning": "Positivity, fun, warmth, success, vitality.",
+      "ReversedMeaning": "Negativity, depression, sadness, lack of enthusiasm.",
+      "Symbolism": "A bright sun shining, often with a child playing under it, symbolizing joy, success, and positivity.",
+      "HistoricalBackground": "The Sun is a card of optimism and fulfillment, often representing success, and the joy of life itself."
+    },
+    "Judgement": {
+      "UprightMeaning": "Judgment, rebirth, inner calling, absolution.",
+      "ReversedMeaning": "Self-doubt, refusal of self-examination, ignoring the call.",
+      "Symbolism": "An angel sounding a trumpet, with people rising from graves, representing a call to a higher level of being and understanding.",
+      "HistoricalBackground": "Judgement signifies awakening, when a person reaches a level of higher understanding, often a moment of profound self-realization."
+    },
+    "TheWorld": {
+      "UprightMeaning": "Completion, integration, accomplishment, travel.",
+      "ReversedMeaning": "Incompletion, no closure, feeling stuck, unfulfilled potential.",
+      "Symbolism": "A figure surrounded by a wreath, usually dancing or floating, symbolizing the end of the cycle and the unity of the self with the cosmos.",
+      "HistoricalBackground": "The World represents the completion of a cycle, achievement, and a period of reflection on what has been and what will come next."
+    },
+  "AceOfWands": {
+    "UprightMeaning": "New beginnings, inspiration, creativity, energy.",
+    "ReversedMeaning": "Lack of motivation, weighed down by burdens, delays.",
+    "Symbolism": "A hand holding a sprouting wand, symbolizing growth, potential, and fertile ideas.",
+    "HistoricalBackground": "The Ace of Wands represents the spark of new ideas or ventures, often related to creativity or enthusiasm."
+    },
+    "TwoOfWands": {
+      "UprightMeaning": "Future planning, progress, decisions, discovery.",
+      "ReversedMeaning": "Fear of change, playing safe, bad planning.",
+      "Symbolism": "A figure holding a globe, looking out, symbolizing planning and decision making.",
+      "HistoricalBackground": "The Two of Wands is about planning and looking towards the future, often indicating a crossroads or a choice to be made."
+    },
+    "ThreeOfWands": {
+      "UprightMeaning": "Expansion, foresight, overseas opportunities, long-term plans.",
+      "ReversedMeaning": "Delays, lack of foresight, obstacles to long-term goals.",
+      "Symbolism": "A figure looking out over a vast landscape, symbolizing looking ahead to future possibilities.",
+      "HistoricalBackground": "The Three of Wands suggests looking forward and expanding one's horizons, often in a business or career context."
+    },
+    "FourOfWands": {
+      "UprightMeaning": "Celebration, joy, harmony, relaxation, homecoming.",
+      "ReversedMeaning": "Lack of support, transience, home conflicts.",
+      "Symbolism": "Four wands with a garland, symbolizing celebration and a happy home.",
+      "HistoricalBackground": "The Four of Wands often represents a time of joy and celebration, particularly after a period of hard work or struggle."
+    },
+    "FiveOfWands": {
+      "UprightMeaning": "Competition, rivalry, conflict, tension, diversity.",
+      "ReversedMeaning": "Avoiding conflict, respecting differences, finding common ground.",
+      "Symbolism": "Five individuals brandishing wands in apparent conflict, symbolizing struggle and competition.",
+      "HistoricalBackground": "The Five of Wands often represents a challenge or struggle, whether in a playful or more serious context."
+    },
+    "SixOfWands": {
+      "UprightMeaning": "Success, victory, achievement, recognition, confidence.",
+      "ReversedMeaning": "Failure, lack of recognition, punishment for arrogance.",
+      "Symbolism": "A figure riding victoriously on a horse, often with a laurel wreath, symbolizing triumph and success.",
+      "HistoricalBackground": "Historically, the Six of Wands represents success and public recognition, often after overcoming obstacles."
+    },
+    "SevenOfWands": {
+      "UprightMeaning": "Defense, perseverance, protection, maintaining control.",
+      "ReversedMeaning": "Giving up, overwhelmed, overly protective, exhaustion.",
+      "Symbolism": "A figure standing defensively, holding a wand, as they face opposition, symbolizing resistance and self-defense.",
+      "HistoricalBackground": "The Seven of Wands is often associated with standing one's ground and defending one's position against opposition."
+    },
+    "EightOfWands": {
+      "UprightMeaning": "Speed, action, air travel, movement, swift change.",
+      "ReversedMeaning": "Delays, frustration, holding off, internal alignment.",
+      "Symbolism": "Eight wands flying through the air, symbolizing speed and rapid movement.",
+      "HistoricalBackground": "The Eight of Wands typically represents swift action and quick progress, often suggesting rapid communication or developments."
+    },
+    "NineOfWands": {
+      "UprightMeaning": "Resilience, persistence, last stand, close to success.",
+      "ReversedMeaning": "Exhaustion, fatigue, questioning motivations, paranoia.",
+      "Symbolism": "A figure standing guard with a wand, appearing weary but vigilant, symbolizing resilience and persistence.",
+      "HistoricalBackground": "The Nine of Wands represents a final challenge or push before achieving a goal, often suggesting the need for stamina and resilience."
+    },
+    "TenOfWands": {
+      "UprightMeaning": "Burden, responsibility, hard work, stress, achievement.",
+      "ReversedMeaning": "Taking on too much, inability to delegate, burnout.",
+      "Symbolism": "A figure carrying ten wands, overwhelmed by their burden, symbolizing responsibility and hard work.",
+      "HistoricalBackground": "The Ten of Wands often reflects a situation where one is carrying a heavy burden or feeling overwhelmed by responsibilities."
+    },
+    "PageOfWands": {
+      "UprightMeaning": "Enthusiasm, exploration, discovery, free spirit.",
+      "ReversedMeaning": "Lack of direction, procrastination, creating chaos.",
+      "Symbolism": "A young figure holding a wand, looking forward with anticipation, symbolizing curiosity and the love of adventure.",
+      "HistoricalBackground": "The Page of Wands typically represents a young or inexperienced person, or a state of eagerness and the desire to embark on new adventures."
+    },
+    "KnightOfWands": {
+      "UprightMeaning": "Energy, passion, inspired action, adventure, impulsiveness.",
+      "ReversedMeaning": "Haste, scattered energy, delays, frustration, impulsiveness.",
+      "Symbolism": "A knight riding a horse, symbolizing energy, passion, and movement, often indicating a quick or impulsive action.",
+      "HistoricalBackground": "The Knight of Wands is often associated with a swift, energetic approach to life, but sometimes this can lead to impulsiveness or recklessness."
+    },
+      "QueenOfWands": {
+    "UprightMeaning": "Confidence, independence, social butterfly, determination.",
+    "ReversedMeaning": "Selfishness, jealousy, overbearing, unfaithfulness.",
+    "Symbolism": "The Queen sitting on her throne with sunflowers and a black cat, symbolizing her charismatic and nurturing nature.",
+    "HistoricalBackground": "The Queen of Wands represents a person who is charismatic and vibrant, often at the center of attention and good at motivating others."
+    },
+    "KingOfWands": {
+      "UprightMeaning": "Natural-born leader, vision, entrepreneur, honor.",
+      "ReversedMeaning": "Impulsiveness, overbearing, unachievable expectations, dictatorial.",
+      "Symbolism": "The King on his throne, holding a wand, symbolizes leadership, vision, and an entrepreneurial spirit.",
+      "HistoricalBackground": "The King of Wands typically represents a visionary leader, someone who is charismatic and able to inspire others with their passion."
+    },
+        "AceOfCups": {
+      "UprightMeaning": "New love, compassion, creativity, overwhelming emotion.",
+      "ReversedMeaning": "Blocked or repressed emotions, lost opportunity, emotional instability.",
+      "Symbolism": "A hand holding a cup overflowing with water, symbolizing an abundance of emotions and the beginning of emotional fulfillment.",
+      "HistoricalBackground": "The Ace of Cups typically represents the beginning of emotional experiences and the potential for deep emotional connections."
+    },
+    "TwoOfCups": {
+      "UprightMeaning": "Unified love, partnership, mutual attraction.",
+      "ReversedMeaning": "Breakdown in communication, tension in relationship, unrequited love.",
+      "Symbolism": "Two cups and two figures, symbolizing connection and emotional balance between two people.",
+      "HistoricalBackground": "The Two of Cups often represents the formation of a deep bond or partnership, marked by mutual respect and understanding."
+    },
+    "ThreeOfCups": {
+      "UprightMeaning": "Celebration, friendship, creativity, collaborations.",
+      "ReversedMeaning": "Overindulgence, gossip, isolation, ignored opportunities.",
+      "Symbolism": "Three figures toasting, representing celebration, friendship, and shared happiness.",
+      "HistoricalBackground": "This card typically signifies celebrations and social gatherings, reflecting joy, festivity, and community."
+    },
+    "FourOfCups": {
+      "UprightMeaning": "Meditation, contemplation, apathy, reevaluation.",
+      "ReversedMeaning": "Sudden awareness, choosing happiness, acceptance of an offer.",
+      "Symbolism": "A person sitting under a tree, being offered a cup, yet they seem disinterested, symbolizing contemplation and reevaluation.",
+      "HistoricalBackground": "The Four of Cups is often associated with a period of introspection or apathy, where the focus is on reevaluating one's life and emotional needs."
+    },
+    "FiveOfCups": {
+      "UprightMeaning": "Loss, regret, disappointment, despair, bereavement.",
+      "ReversedMeaning": "Acceptance, moving on, finding peace, forgiveness.",
+      "Symbolism": "Three spilled cups, two standing cups, symbolizing loss and the opportunity to move forward.",
+      "HistoricalBackground": "The Five of Cups often represents mourning and loss, but with an undercurrent of hope and moving forward."
+    },
+    "SixOfCups": {
+      "UprightMeaning": "Nostalgia, happy memories, old friends, return to innocence.",
+      "ReversedMeaning": "Stuck in the past, naivety, unrealistic about the future.",
+      "Symbolism": "Children exchanging cups, symbolizing nostalgia and happy memories from the past.",
+      "HistoricalBackground": "The Six of Cups is often associated with childhood memories and nostalgia, reflecting on past joy and innocence."
+    },
+    "SevenOfCups": {
+      "UprightMeaning": "Choices, illusions, fantasy, imagination, wishful thinking.",
+      "ReversedMeaning": "Alignment, personal values, overwhelmed by choices, clarity.",
+      "Symbolism": "Seven cups filled with various symbolic objects, representing different dreams and choices.",
+      "HistoricalBackground": "The Seven of Cups symbolizes the many options, opportunities, and potential paths that one may face."
+    },
+    "EightOfCups": {
+      "UprightMeaning": "Disappointment, abandonment, withdrawal, shifting focus.",
+      "ReversedMeaning": "Fear of moving on, stagnation, clinging to the past.",
+      "Symbolism": "A figure walking away from eight cups, symbolizing the decision to leave something behind.",
+      "HistoricalBackground": "The Eight of Cups represents a moment of transition, choosing to leave something behind in search of something deeper and more meaningful."
+    },
+    "NineOfCups": {
+      "UprightMeaning": "Contentment, satisfaction, gratitude, wish come true.",
+      "ReversedMeaning": "Lack of fulfillment, dissatisfaction, indulgence.",
+      "Symbolism": "A figure sitting in front of nine cups, symbolizing contentment and achieving what you desire.",
+      "HistoricalBackground": "The Nine of Cups is often referred to as the 'wish card', representing satisfaction and emotional fulfillment."
+    },
+    "TenOfCups": {
+      "UprightMeaning": "Harmony, marriage, happiness, alignment.",
+      "ReversedMeaning": "Dysfunction, disconnection, misaligned values, broken homes.",
+      "Symbolism": "A happy family under a rainbow of cups, symbolizing complete harmony and emotional fulfillment.",
+      "HistoricalBackground": "The Ten of Cups embodies joy and family harmony, representing the ideal state of peace and happiness in family and relationships."
+    },
+    "PageOfCups": {
+      "UprightMeaning": "Creative opportunities, intuitive messages, curiosity, possibility.",
+      "ReversedMeaning": "Immaturity, escapism, lack of emotional depth, naivety.",
+      "Symbolism": "A young page holding a cup with a fish in it, symbolizing emerging emotions and the beginnings of inspiration.",
+      "HistoricalBackground": "The Page of Cups represents a young or inexperienced person who is imaginative, artistic, and emotional, often indicating the start of creative or emotional journeys."
+    },
+    "KnightOfCups": {
+      "UprightMeaning": "Romance, charm, 'Knight in shining armor', imagination.",
+      "ReversedMeaning": "Unrealistic, jealousy, moodiness.",
+      "Symbolism": "The Knight riding on a horse, symbolizing romance, adventure, and a quest for emotional or artistic fulfillment.",
+      "HistoricalBackground": "The Knight of Cups is often seen as a romantic and charming figure, pursuing his heart’s desires with passion."
+    },
+    "QueenOfCups": {
+      "UprightMeaning": "Compassion, calm, comfort, emotional security.",
+      "ReversedMeaning": "Emotional insecurity, codependency, manipulation.",
+      "Symbolism": "The Queen sitting by the sea, holding a decorative cup, symbolizing her deep, intuitive understanding of emotions.",
+      "HistoricalBackground": "The Queen of Cups is often associated with a nurturing, empathetic presence, embodying deep emotional and psychic intuition."
+    },
+    "KingOfCups": {
+      "UprightMeaning": "Emotional balance, compassion, diplomatic, open-hearted.",
+      "ReversedMeaning": "Emotional manipulation, moodiness, volatility.",
+      "Symbolism": "The King on his throne, surrounded by water, symbolizing control over emotions and a balanced approach to dealing with feelings.",
+      "HistoricalBackground": "The King of Cups represents maturity in dealing with emotional matters, often suggesting a person who is caring and diplomatic."
+    },
+    "AceOfSwords": {
+      "UprightMeaning": "Breakthroughs, clarity, sharp mind, success.",
+      "ReversedMeaning": "Confusion, brutality, chaos, misuse of power.",
+      "Symbolism": "A hand holding an upright sword, symbolizing clarity of thought, cutting through confusion.",
+      "HistoricalBackground": "The Ace of Swords typically represents a breakthrough or a new way of thinking, symbolizing clarity and intellectual power."
+    },
+    "TwoOfSwords": {
+      "UprightMeaning": "Difficult choices, indecision, stalemate, blocked emotions.",
+      "ReversedMeaning": "Lesser of two evils, no right choice, confusion.",
+      "Symbolism": "A blindfolded figure holding two crossed swords, representing a stalemate or a need for a decision.",
+      "HistoricalBackground": "The Two of Swords often symbolizes a difficult decision, with a need for balance and composure in making a choice."
+    },
+    "ThreeOfSwords": {
+      "UprightMeaning": "Heartbreak, emotional pain, sorrow, grief, betrayal.",
+      "ReversedMeaning": "Recovery, forgiveness, moving on, overcoming sadness.",
+      "Symbolism": "Three swords piercing a heart, symbolizing emotional pain and heartbreak.",
+      "HistoricalBackground": "The Three of Swords is typically associated with emotional pain and heartache, often relating to relationships or personal loss."
+    },
+    "FourOfSwords": {
+      "UprightMeaning": "Rest, relaxation, meditation, contemplation, recuperation.",
+      "ReversedMeaning": "Restlessness, burnout, stress, lack of progress.",
+      "Symbolism": "A figure lying in repose, swords hanging above, representing a time for rest and recuperation.",
+      "HistoricalBackground": "The Four of Swords often suggests a period of rest or recovery, indicating the need for a break and time for introspection."
+    },
+    "FiveOfSwords": {
+      "UprightMeaning": "Conflict, tension, loss, defeat, win at all costs.",
+      "ReversedMeaning": "Reconciliation, making amends, past resentment.",
+      "Symbolism": "A figure holding three swords and looking at two defeated opponents, symbolizing conflict and conquest.",
+      "HistoricalBackground": "The Five of Swords often represents a hollow victory, conflict, and tension, where the outcome may not be worth the battle."
+    },
+    "SixOfSwords": {
+      "UprightMeaning": "Transition, change, rite of passage, releasing baggage.",
+      "ReversedMeaning": "Stagnation, baggage, unresolved issues, refusal to move on.",
+      "Symbolism": "A boat with figures moving on water, swords aboard, symbolizing a journey or transition.",
+      "HistoricalBackground": "The Six of Swords typically signifies a rite of passage or a necessary transition, although not without some baggage."
+    },
+    "SevenOfSwords": {
+      "UprightMeaning": "Deception, trickery, tactics, strategy, slyness.",
+      "ReversedMeaning": "Coming clean, rethinking approach, deceptive behavior.",
+      "Symbolism": "A figure sneaking away with swords, suggesting stealth or a covert plan.",
+      "HistoricalBackground": "The Seven of Swords is often associated with a need for strategy and stealth, but it may also suggest deceit or cunning behavior."
+    },
+    "EightOfSwords": {
+      "UprightMeaning": "Restriction, limitation, bondage, imprisonment, powerlessness.",
+      "ReversedMeaning": "Self-acceptance, new perspective, freedom, release.",
+      "Symbolism": "A blindfolded and bound figure, surrounded by swords, symbolizing entrapment or confinement.",
+      "HistoricalBackground": "The Eight of Swords represents a situation of constraint and restriction, suggesting a feeling of being trapped or limited by circumstances."
+    },
+    "NineOfSwords": {
+      "UprightMeaning": "Anxiety, worry, fear, depression, nightmares.",
+      "ReversedMeaning": "Hope, reaching out, overcoming fear, inner turmoil.",
+      "Symbolism": "A figure sitting up in bed, head in hands, with nine swords on the wall, representing worry and mental anguish.",
+      "HistoricalBackground": "The Nine of Swords is often associated with anxiety and fear, reflecting inner turmoil and the impact of negative thinking."
+    },
+    "TenOfSwords": {
+      "UprightMeaning": "Betrayal, backstabbing, end of a cycle, loss, crisis.",
+      "ReversedMeaning": "Recovery, regeneration, resisting an inevitable end.",
+      "Symbolism": "A figure lying face down with ten swords in their back, symbolizing defeat and betrayal.",
+      "HistoricalBackground": "The Ten of Swords typically represents a dramatic ending or betrayal, signifying the need to accept an inevitable conclusion."
+    },
+    "PageOfSwords": {
+      "UprightMeaning": "Curiosity, restlessness, mental energy, communication.",
+      "ReversedMeaning": "Deception, manipulation, all talk and no action, cynicism.",
+      "Symbolism": "A young page standing with a sword, symbolizing the pursuit of truth or intellectual discovery.",
+      "HistoricalBackground": "The Page of Swords often represents a young or inexperienced person, characterized by curiosity, vigilance, and a restless mind."
+    },
+    "KnightOfSwords": {
+      "UprightMeaning": "Ambitious, action-oriented, driven to succeed, fast-thinking.",
+      "ReversedMeaning": "Impulsive, scatterbrained, reckless, tactless.",
+      "Symbolism": "A knight riding swiftly, sword drawn, symbolizing rapid movement and action.",
+      "HistoricalBackground": "The Knight of Swords represents a person who is driven and intellectual, but sometimes this energy can become reckless or hasty."
+    },
+    "QueenOfSwords": {
+      "UprightMeaning": "Independent, unbiased judgment, clear boundaries, direct communication.",
+      "ReversedMeaning": "Cold-hearted, cruel, bitterness, overly critical.",
+      "Symbolism": "The Queen on her throne, sword in hand, representing her sharp intellect and perceptiveness.",
+      "HistoricalBackground": "The Queen of Swords symbolizes a figure who values truth and clarity, often associated with a sharp mind and clear thinking."
+    },
+    "KingOfSwords": {
+      "UprightMeaning": "Intellectual authority, strategic thinking, clarity, ethical.",
+      "ReversedMeaning": "Manipulative, tyrannical, abusive power, cold.",
+      "Symbolism": "The King on his throne, holding a sword upright, symbolizing fairness, authority, and a powerful intellect.",
+      "HistoricalBackground": "The King of Swords represents a figure of authority and intellect, often involved in making decisions based on a clear understanding of the situation."
+    },
+    "AceOfPentacles": {
+      "UprightMeaning": "Opportunity, prosperity, new venture, trust.",
+      "ReversedMeaning": "Lost opportunity, missed chance, bad investment.",
+      "Symbolism": "A hand holding a pentacle, symbolizing an offer or opportunity in the material world.",
+      "HistoricalBackground": "The Ace of Pentacles typically represents a new opportunity in the realm of material or financial gain, often a chance to start a new venture or a path to greater prosperity."
+    },
+    "TwoOfPentacles": {
+      "UprightMeaning": "Balance, adaptability, time management, prioritization.",
+      "ReversedMeaning": "Overwhelmed, disorganized, reprioritization.",
+      "Symbolism": "A figure juggling two pentacles, maintaining balance, symbolizing the need to handle competing priorities.",
+      "HistoricalBackground": "The Two of Pentacles often represents the challenge of balancing multiple responsibilities or financial demands."
+    },
+    "ThreeOfPentacles": {
+      "UprightMeaning": "Teamwork, collaboration, learning, implementation.",
+      "ReversedMeaning": "Lack of teamwork, disregard for skills, disharmony.",
+      "Symbolism": "Three figures, each contributing to the construction of a building, symbolizing collaboration and the importance of teamwork.",
+      "HistoricalBackground": "The Three of Pentacles typically signifies collaboration and the execution of a project, often related to work or skills."
+    },
+    "FourOfPentacles": {
+      "UprightMeaning": "Security, possession, control, savings, stability.",
+      "ReversedMeaning": "Greed, materialism, self-protection, stinginess.",
+      "Symbolism": "A figure holding tightly to four pentacles, symbolizing control over resources and a desire for stability.",
+      "HistoricalBackground": "The Four of Pentacles often deals with issues of security and control, particularly in a financial or material sense."
+    },
+    "FiveOfPentacles": {
+      "UprightMeaning": "Financial loss, poverty, lack mindset, isolation, worry.",
+      "ReversedMeaning": "Recovery from financial loss, spiritual poverty, new opportunities.",
+      "Symbolism": "Two figures walking in snow outside a church, symbolizing hardship, poverty, and a feeling of being left out in the cold.",
+      "HistoricalBackground": "The Five of Pentacles typically represents financial or material struggle, indicating a time of hardship or insecurity."
+    },
+    "SixOfPentacles": {
+      "UprightMeaning": "Generosity, charity, giving, receiving, sharing wealth.",
+      "ReversedMeaning": "Debt, selfishness, one-sided charity, strings attached.",
+      "Symbolism": "A figure distributing coins to others, symbolizing the act of giving, receiving, and sharing resources.",
+      "HistoricalBackground": "The Six of Pentacles deals with the distribution of wealth and resources, suggesting a balance between helping others and receiving help."
+    },
+    "SevenOfPentacles": {
+      "UprightMeaning": "Patience, long-term view, sustainable results, perseverance.",
+      "ReversedMeaning": "Lack of long-term vision, limited success or reward, impatience.",
+      "Symbolism": "A figure looking at the growth of pentacles on a plant, symbolizing cultivation, patience, and planning.",
+      "HistoricalBackground": "The Seven of Pentacles represents the need for patience and long-term planning, especially in financial or career matters."
+    },
+    "EightOfPentacles": {
+      "UprightMeaning": "Apprenticeship, education, quality, engagement in work.",
+      "ReversedMeaning": "Lack of focus, perfectionism, not applying oneself fully.",
+      "Symbolism": "A person diligently working on crafting pentacles, symbolizing dedication and a focus on quality.",
+      "HistoricalBackground": "The Eight of Pentacles is often associated with apprenticeship and the dedication to developing skills and knowledge."
+    },
+    "NineOfPentacles": {
+      "UprightMeaning": "Luxury, self-sufficiency, financial independence, success.",
+      "ReversedMeaning": "Financial dependency, superficiality, lack of progress.",
+      "Symbolism": "A figure in a garden of pentacles, symbolizing comfort, luxury, and financial stability.",
+      "HistoricalBackground": "The Nine of Pentacles represents the achievement of financial independence and success, often suggesting a time of enjoying the fruits of one's labor."
+    },
+    "TenOfPentacles": {
+      "UprightMeaning": "Wealth, inheritance, family, establishment, retirement.",
+      "ReversedMeaning": "Financial failure, loneliness, loss, family issues.",
+      "Symbolism": "A family under a banner of pentacles, symbolizing wealth, stability, and legacy.",
+      "HistoricalBackground": "The Ten of Pentacles deals with long-term financial security, family matters, and the legacy one leaves behind."
+    },
+    "PageOfPentacles": {
+      "UprightMeaning": "Manifestation, financial opportunity, skill development.",
+      "ReversedMeaning": "Lack of progress, procrastination, learning from failure.",
+      "Symbolism": "A young page holding a pentacle, looking at it curiously, symbolizing the potential for material gain and opportunity.",
+      "HistoricalBackground": "The Page of Pentacles represents a young or inexperienced person who is practical, cautious, and eager to see tangible results."
+    },
+    "KnightOfPentacles": {
+      "UprightMeaning": "Efficiency, routine, conservatism, methodical.",
+      "ReversedMeaning": "Boredom, stagnation, laziness, feeling stuck.",
+      "Symbolism": "A knight on a horse holding a pentacle, symbolizing a methodical, deliberate approach to achieving goals.",
+      "HistoricalBackground": "The Knight of Pentacles represents a person who is diligent, reliable, and focused on practical achievements."
+    },
+    "QueenOfPentacles": {
+      "UprightMeaning": "Practicality, creature comforts, financial security, nurturing.",
+      "ReversedMeaning": "Financial independence, self-care, work-home conflict.",
+      "Symbolism": "The Queen sitting on her throne surrounded by nature and holding a pentacle, symbolizing abundance, practicality, and a nurturing presence.",
+      "HistoricalBackground": "The Queen of Pentacles represents a nurturing figure who is particularly skilled in managing financial and material comfort."
+    },
+    "KingOfPentacles": {
+      "UprightMeaning": "Wealth, business, leadership, security, discipline.",
+      "ReversedMeaning": "Materialistic, overly cautious, miserly, unethical.",
+      "Symbolism": "The King on his throne, surrounded by symbols of material success, representing wealth and mastery over the material world.",
+      "HistoricalBackground": "The King of Pentacles is often associated with financial success and security, as well as practical wisdom in business and material matters."
+    },
+    
+        "KingOfPentacles": {
+          "UprightMeaning": "Wealth, business, leadership, security, discipline.",
+          "ReversedMeaning": "Materialistic, overly cautious, miserly, unethical.",
+          "Symbolism": "The King on his throne, surrounded by symbols of material success, representing wealth and mastery over the material world.",
+          "HistoricalBackground": "The King of Pentacles is often associated with financial success and security, as well as practical wisdom in business and material matters."
+    }
+  }
+}
